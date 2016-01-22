@@ -1,1 +1,1 @@
-# Stavelist-front destinated to fron webpage
+# Stavelist-front destinated to front webpage
